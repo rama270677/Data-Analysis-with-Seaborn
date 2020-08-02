@@ -1,5 +1,5 @@
 # Data-Analysis-with-Seaborn
-Exploratory Data Analysis with Seaborn
+Exploratory Data Analysis with Seaborn.
 
 Identify and interpret inherent quantitative relationships in datasets.
 Produce and customize various chart types with Seaborn in Python.

@@ -1,4 +1,4 @@
-# Data-Analysis-with-Seaborn
+# Data-Analysis-with-Seaborn.
 Exploratory Data Analysis with Seaborn
 
 Identify and interpret inherent quantitative relationships in datasets.
